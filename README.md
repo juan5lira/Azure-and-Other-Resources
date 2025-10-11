@@ -17,3 +17,4 @@ In this tutorial, we observe various Azure configurations to experiment with the
 <img width="1320" height="556" alt="image" src="https://github.com/user-attachments/assets/111d25af-80b0-4c16-96e4-ae58ae70edb0" />
 <img width="1437" height="346" alt="image" src="https://github.com/user-attachments/assets/d2cb8069-dcf3-4eda-a20b-f5597ffb7a0d" />
 
+<img width="1672" height="707" alt="image" src="https://github.com/user-attachments/assets/81a25bfd-adeb-4d5e-a566-d204d20e68db" />
