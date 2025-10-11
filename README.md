@@ -28,3 +28,6 @@ Virtual machine and subnet
 
 Password reset
 <img width="1613" height="683" alt="image" src="https://github.com/user-attachments/assets/dea02d35-795e-4914-938a-ac6fbc1e8f5a" />
+
+Linux
+<img width="1432" height="887" alt="image" src="https://github.com/user-attachments/assets/728e6517-c2be-490d-8c9e-d8f63d3d223d" />
