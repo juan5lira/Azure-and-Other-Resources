@@ -31,3 +31,6 @@ Password reset
 
 Linux
 <img width="1432" height="887" alt="image" src="https://github.com/user-attachments/assets/728e6517-c2be-490d-8c9e-d8f63d3d223d" />
+
+Windows
+<img width="1073" height="871" alt="image" src="https://github.com/user-attachments/assets/905b11af-e388-4cbf-abbf-ff1cb537d330" />
