@@ -6,7 +6,10 @@ In this tutorial, we observe various Azure configurations to experiment with the
 
 <img width="493" height="435" alt="image" src="https://github.com/user-attachments/assets/80728eba-6ab6-44d0-878b-0199680ad9fc" />
 
+List:
 
+- In Microsoft Azure create: Resources group, Windows/Linux Virtual Machine (aka client/remote desktop/windows)
+  
 Azure 
 - <img width="1656" height="1032" alt="image" src="https://github.com/user-attachments/assets/ffea5323-e598-40ff-a945-37f6bacb1d78" />
 <img width="1737" height="735" alt="image" src="https://github.com/user-attachments/assets/6634b315-b396-46b9-8ba9-4af26546a673" />
