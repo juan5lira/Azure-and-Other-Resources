@@ -37,3 +37,35 @@ Linux
 
 Windows
 <img width="1073" height="871" alt="image" src="https://github.com/user-attachments/assets/905b11af-e388-4cbf-abbf-ff1cb537d330" />
+
+
+Create a free subscription: https://azure.microsoft.com/en-us/free/
+
+Alternatively Create a Pay As You Go
+
+Get logged into the Azure Portal: https://portal.azure.com
+
+Observe the portal (Resource Groups, Virtual Machines, EntraID)
+
+Within the Azure Portal, Create a Resource Group
+
+Create a Storage Account within the Resource Group created in Step 1
+
+Create a text file on your local desktop If you’re using a Mac, go to preferences and set it to plain text.
+
+Upload the text file you created to the Azure Storage Account.
+
+Edit the file within the Storage Account (within the Azure Portal)
+
+Download the file
+
+Open the file and observe the changes
+
+Delete the Resource Group created in step 4 (in order to ensure you don’t incur “cost”)
+
+Verify that the Resource Group has been deleted
+
+Never forget to clean up/delete your resources/resource groups
+
+Check Cost Management -> Cost Analysis
+
